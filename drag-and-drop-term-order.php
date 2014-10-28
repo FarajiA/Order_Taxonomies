@@ -3,7 +3,7 @@ defined( 'ABSPATH' ) OR exit;
 
 /*
 	Plugin Name: Drag-and-Drop Term Ordering
-	Plugin URI: http://wunderdojo.com/blog/2014/05/01/taxonomy-sort-plugin-enhanced/
+	Plugin URI: https://github.com/FarajiA/Order_Taxonomies
 	Description: Allows you to easily change the display order of terms (categories, etc.) on your site via a drag-and-drop interface.
 	Version: 1
 	Author: James Currie / wunderdojo based on the work of Risto Niinemets
